@@ -29,6 +29,11 @@ section {
     font-family: Helvetica;
 }
 
+p{
+    clear: right;
+    text-align: center;
+}
+
 #chicken {
     background-color: rgb(153, 63, 105);
 }
